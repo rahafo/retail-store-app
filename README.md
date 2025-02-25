@@ -159,7 +159,7 @@ docker build -t retail-app .
 ### 5. Run docker image
 
 ```bash
-docker run -p 8080:8080 --network retaildiscountapplication_retail-network retail-app
+docker run -p 8080:8080 --network retail-store-app_retail-network retail-app
 ```
 
 The application will be available at `http://localhost:8080`
