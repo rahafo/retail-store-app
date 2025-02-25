@@ -1,0 +1,9 @@
+spring:
+  security:
+    jwt:
+      secret-key: ${JWT_SECRET_KEY:3778214125442A472D4B6150645367566B59703373367639792F423F4528482B}
+  application:
+    name: RetailDiscountApplication
+  data:
+    mongodb:
+      uri: mongodb://${MONGODB_USERNAME:mongoUser}:${MONGODB_PASSWORD:mongoPass}@${MONGODB_ADDRESS:mongodb:27017}/retail?authSource=admin

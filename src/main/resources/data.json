@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Laptop",
+    "price": 999.99,
+    "isGrocery": false
+  },
+  {
+    "name": "Smartphone",
+    "price": 699.99,
+    "isGrocery": false
+  },
+  {
+    "name": "Coffee Maker",
+    "price": 89.99,
+    "isGrocery": false
+  },
+  {
+    "name": "Headphones",
+    "price": 149.99,
+    "isGrocery": false
+  },
+  {
+    "name": "Bananas",
+    "price": 1.99,
+    "isGrocery": true
+  },
+  {
+    "name": "Bread",
+    "price": 3.49,
+    "isGrocery": true
+  },
+  {
+    "name": "Milk",
+    "price": 2.99,
+    "isGrocery": true
+  },
+  {
+    "name": "Eggs",
+    "price": 4.99,
+    "isGrocery": true
+  },
+  {
+    "name": "Rice",
+    "price": 80.99,
+    "isGrocery": true
+  },
+  {
+    "name": "Toothpaste",
+    "price": 3.99,
+    "isGrocery": false
+  }
+]
